@@ -1,4 +1,4 @@
-baseURL = "https://funtrix.github.io/JAMSite/"
+baseURL = "https://elastic-swartz-56e586.netlify.app/"
 languageCode = "en-us"
 title = "JAMSite"
 theme = "tale"
