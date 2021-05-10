@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://funtrix.github.io/JAMSite/"
 languageCode = "en-us"
 title = "JAMSite"
 theme = "tale"
